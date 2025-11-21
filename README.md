@@ -77,7 +77,7 @@ python app.py
 
  ## 👨‍🎓 Créditos
 Desenvolvido por Gabriel Sales 
-Projeto: Desenvolvimento de uma empresa de cafeteria / Python com Flat 
+Projeto: Desenvolvimento de uma empresa de cafeteria / Python com Flat
 
 
 
