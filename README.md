@@ -65,11 +65,10 @@ projeto/
 python app.py
 
 
-## 📄 Documentação
 
 -## 📄 Documentação
 
-- Slides acadêmicos em PDF: [`SmartCafe.pdf`](SmartCafe.pdf)  
+- Slides acadêmicos em PDF: [`SmartCafe.pptx`](SmartCafe)  
 - Projeto completo: [`Projeto Python Com Flat - SmartCafe`](Projeto%20Python%20Com%20Flat%20-%20SmartCafe)
 
 
